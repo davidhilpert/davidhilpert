@@ -7,8 +7,9 @@
 📈 My published projects (co-authored) deal with Causal Inference in the context of survey experiments, in particular vignette designs and conjoint analysis. These include: 
 
   4. [**Divided we Unite**](https://www.cambridge.org/core/journals/american-political-science-review/article/divided-we-unite-the-nature-of-partyism-and-the-role-of-coalition-partnership-in-europe/B46AE5A929EA42FE817FE6273B0243E8): A multidimensional vignette design (conjoint analysis) on the extent of emotional polarization along party lines in 25 European countries (w. H. Hahm, T. König)
-  3. Project Name. Brief description.
-  2. Project Name. Brief description.
+  3. [**Divided by Europe**](https://www.tandfonline.com/doi/abs/10.1080/01402382.2022.2133277): A multidimensional vignette design (conjoint analysis) on the extent of emotional polarization between supporters and opponents of European integration in that same 25 EU member states (w. H. Hahm, T. König)
+  2. [**Wheeling and dealing behind closed doors**](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/wheeling-and-dealing-behind-closed-doors-estimating-the-causal-effect-of-transparency-on-policy-evaluations-using-a-survey-experiment/F38E9DCA76E8DA5B44D44CA81C1BFF1A): A vignette design on the effect of transparency on the perception of international trade agreements (w. S. Juhl)
+  1. [**Institutional reform and public attitudes toward EU decision making**](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12361): A multidimensional vignette design (conjoint analysis) public support for alternative institutional architectures for the EU (w. H. Hahm, T. König)
 
 <!---
 - 👋 Hi, I’m @davidhilpert
