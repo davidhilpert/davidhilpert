@@ -6,9 +6,9 @@
 
 📈 My published projects include: 
 
-  1: Project Name. Brief description.
-  2: Project Name. Brief description.
-  3: Project Name. Brief description.
+  1. Project Name. Brief description.
+  2. Project Name. Brief description.
+  3. Project Name. Brief description.
 
 <!---
 - 👋 Hi, I’m @davidhilpert
