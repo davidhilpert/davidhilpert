@@ -6,7 +6,7 @@
 
 📈 My published projects (co-authored) deal with Causal Inference in the context of survey experiments, in particular vignette designs and conjoint analysis. These include: 
 
-  4. [**Divided we Unite**]([https://link-to-your-project1.com](https://www.cambridge.org/core/journals/american-political-science-review/article/divided-we-unite-the-nature-of-partyism-and-the-role-of-coalition-partnership-in-europe/B46AE5A929EA42FE817FE6273B0243E8)): A multidimensional vignette design (conjoint analysis) on the extent of emotional polarization along party lines in 25 European countries (w. H. Hahm, T. König)
+  4. [**Divided we Unite**](https://www.cambridge.org/core/journals/american-political-science-review/article/divided-we-unite-the-nature-of-partyism-and-the-role-of-coalition-partnership-in-europe/B46AE5A929EA42FE817FE6273B0243E8): A multidimensional vignette design (conjoint analysis) on the extent of emotional polarization along party lines in 25 European countries (w. H. Hahm, T. König)
   3. Project Name. Brief description.
   2. Project Name. Brief description.
 
