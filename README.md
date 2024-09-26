@@ -1,10 +1,10 @@
 👋 Hi, I’m David.
 
-💼 I’m a Data Scientist with a passion for Machine Learning, Natural Language Processing (NLP), and Causal Inference.
+💼 I’m a Data Scientist with a passion for machine learning, natural language processing (NLP), and causal inference.
 
 🚀 Please check out my GitHub for some current interests. 
 
-📈 My published projects (co-authored) deal with Causal Inference in the context of survey experiments, in particular vignette designs and conjoint analysis. These include: 
+📈 My published projects (co-authored) deal with causal inference in the context of survey experiments, in particular vignette designs and conjoint analysis. These include: 
 
 1. [**Divided we Unite**](https://www.cambridge.org/core/journals/american-political-science-review/article/divided-we-unite-the-nature-of-partyism-and-the-role-of-coalition-partnership-in-europe/B46AE5A929EA42FE817FE6273B0243E8): A multidimensional vignette design (conjoint analysis) on the extent of emotional polarization along party lines in 25 European countries (w. H. Hahm, T. König)
 2. [**Divided by Europe**](https://www.tandfonline.com/doi/abs/10.1080/01402382.2022.2133277): A multidimensional vignette design (conjoint analysis) on the extent of emotional polarization between supporters and opponents of European integration in that same 25 EU member states (w. H. Hahm, T. König)
