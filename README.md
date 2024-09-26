@@ -4,9 +4,9 @@
 
 🚀 Please check out my GitHub for some current interests. 
 
-📈 My published projects include: 
+📈 My published projects (co-authored) deal with Causal Inference in the context of survey experiments, in particular vignette designs and conjoint analysis. These include: 
 
-  1. Project Name. Brief description.
+  1. [**Project Name 1**](https://link-to-your-project1.com): Brief description.
   2. Project Name. Brief description.
   3. Project Name. Brief description.
 
