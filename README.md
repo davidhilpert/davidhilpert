@@ -4,7 +4,9 @@
 
 🚀 Please check out my GitHub for some current interests. 
 
-📈 My published projects (co-authored) deal with causal inference in the context of survey experiments, in particular vignette designs and conjoint analysis. A list can be found [on Google Scholar:](https://scholar.google.de/citations?user=RkCa68wAAAAJ&hl=de)
+📈 My published projects (co-authored) deal with causal inference in the context of survey experiments, in particular vignette designs and conjoint analysis. A list can be found [on Google Scholar:](https://scholar.google.de/citations?user=RkCa68wAAAAJ&hl=de).
+
+Please feel free to reach out via [LinkedIn!](https://de.linkedin.com/in/david-hilpert-363208135).
 
 <!---
 1. [**Divided we Unite**](https://www.cambridge.org/core/journals/american-political-science-review/article/divided-we-unite-the-nature-of-partyism-and-the-role-of-coalition-partnership-in-europe/B46AE5A929EA42FE817FE6273B0243E8): A multidimensional vignette design (conjoint analysis) on the extent of emotional polarization along party lines in 25 European countries (w. H. Hahm, T. König)
