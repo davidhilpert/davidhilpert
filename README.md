@@ -1,8 +1,8 @@
 👋 Hi, I’m David.
 
-💼 I’m a Data Scientist with a passion for machine learning, natural language processing (NLP), and causal inference. My GitHub Repos present some current applications of these interests. 
+💼 I’m a Data Scientist with a background in social sciences, passionate about machine learning, natural language processing, and causal inference. My GitHub showcases a few current projects applying these interests.
 
-📈 My published projects (co-authored) deal with causal inference in the context of survey experiments, in particular vignette designs and conjoint analysis. A list can be found on [Google Scholar](https://scholar.google.de/citations?user=RkCa68wAAAAJ&hl=de).
+📈 My published work, co-authored, focuses on causal inference in survey experiments—particularly using vignette designs and conjoint analysis. You can find a list on my [Google Scholar profile] (https://scholar.google.de/citations?user=RkCa68wAAAAJ&hl=de).
 
 Please feel free to reach out via [LinkedIn](https://de.linkedin.com/in/david-hilpert-363208135).
 
