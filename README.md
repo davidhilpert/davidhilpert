@@ -1,10 +1,11 @@
 👋 Hi, I’m David.
 
-💼 I’m a Data Scientist with a background in social sciences, interested in machine learning/deep learning, natural language processing, and causal inference. My GitHub showcases a few current projects applying these interests.
+💼 I’m a Data Scientist with a background in social sciences, interested in machine learning/deep learning, natural language processing, and causal inference. My GitHub showcases a few current projects applying these interests. These projects deal with, for example, the [Transformer model](https://github.com/davidhilpert/NietzscheNext), [Retrieval Augmented Generation (RAG)](https://github.com/davidhilpert/RAG_Demo) for Chatbot applications, and [methods for rare events settings](https://github.com/davidhilpert/simple_smote_sim). 
+
 
 📈 My published work, co-authored, focuses on causal inference in survey experiments—particularly using vignette designs and conjoint analysis. You can find a list on my [Google Scholar profile](https://scholar.google.de/citations?user=RkCa68wAAAAJ&hl=de).
 
-Please feel free to reach out via [LinkedIn](https://de.linkedin.com/in/david-hilpert-363208135).
+📫 Please feel free to reach out via [LinkedIn](https://de.linkedin.com/in/david-hilpert-363208135).
 
 <!---
 1. [**Divided we Unite**](https://www.cambridge.org/core/journals/american-political-science-review/article/divided-we-unite-the-nature-of-partyism-and-the-role-of-coalition-partnership-in-europe/B46AE5A929EA42FE817FE6273B0243E8): A multidimensional vignette design (conjoint analysis) on the extent of emotional polarization along party lines in 25 European countries (w. H. Hahm, T. König)
