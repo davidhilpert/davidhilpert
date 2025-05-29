@@ -1,8 +1,8 @@
 👋 Hi, I’m David.
 
 💼 I’m a Data Scientist with a background in social sciences, interested in machine learning/deep learning, natural language processing, and causal inference. My GitHub showcases a few current projects applying these interests. For example,
-1. In [NietzscheNext](https://github.com/davidhilpert/NietzscheNext), I use Transformers to build a model for text completion (autocomplete)
-2. In [RAG_Demo](https://github.com/davidhilpert/RAG_Demo), I employ Retrieval Augmented Generation (RAG) in order to build a chatbot that can answer questions about EU legal texts
+1. in [NietzscheNext](https://github.com/davidhilpert/NietzscheNext), I use Transformers to build a model for text completion (autocomplete)
+2. in [RAG_Demo](https://github.com/davidhilpert/RAG_Demo), I employ Retrieval Augmented Generation (RAG) in order to build a chatbot that can answer questions about EU legal texts
 3. [simple_smote_sim](https://github.com/davidhilpert/simple_smote_sim) uses synthetic data to compare alternative strategies to cope with rare events settings. 
 
 📈 In my published work, my co-authors and I focus on causal inference in survey experiments—particularly using vignette designs and conjoint analysis—to investigate public preferences in the electoral market. You can find a list on my [Google Scholar profile](https://scholar.google.de/citations?user=RkCa68wAAAAJ&hl=de).
