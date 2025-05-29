@@ -5,7 +5,7 @@
 2. In [RAG_Demo](https://github.com/davidhilpert/RAG_Demo), I employ Retrieval Augmented Generation (RAG) in order to build a chatbot that can answer questions about EU legal texts
 3. [simple_smote_sim](https://github.com/davidhilpert/simple_smote_sim) uses synthetic data to compare alternative strategies to cope with rare events settings. 
 
-📈 My published work, co-authored, focuses on causal inference in survey experiments—particularly using vignette designs and conjoint analysis. You can find a list on my [Google Scholar profile](https://scholar.google.de/citations?user=RkCa68wAAAAJ&hl=de).
+📈 In my published work, my co-authors and I focus on causal inference in survey experiments—particularly using vignette designs and conjoint analysis—to investigate public preferences in the electoral market. You can find a list on my [Google Scholar profile](https://scholar.google.de/citations?user=RkCa68wAAAAJ&hl=de).
 
 📫 Please feel free to reach out via [LinkedIn](https://de.linkedin.com/in/david-hilpert-363208135).
 
