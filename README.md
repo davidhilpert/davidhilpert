@@ -1,7 +1,7 @@
 👋 Hi, I’m David.
 
 💼 I’m a Data Scientist with a background in social sciences, interested in machine learning/deep learning, natural language processing, and causal inference. My GitHub showcases a few current projects applying these interests. For example,
-1. in [AgePrediction](https://github.com/davidhilpert/AgePrediction), I finetune a BERT-model to predict birth year from first names 
+1. in [AgePrediction](https://github.com/davidhilpert/AgePrediction), I finetune a BERT-model to predict birth year from first names (pretraining eith finetuning)
 1. in [NietzscheNext](https://github.com/davidhilpert/NietzscheNext), I use Transformers to build a model for text autocompletion based on Nietzsche's collected works.
 1. in [RAG_Demo](https://github.com/davidhilpert/RAG_Demo), I employ Retrieval Augmented Generation (RAG) in order to build a chatbot that can answer questions about EU legal texts
 
