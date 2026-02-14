@@ -51,11 +51,11 @@
 
   <tr>
     <td>
-      3. <a href="https://github.com/davidhilpert/RAG_Demo](https://github.com/davidhilpert/french-german-legal-translation">French-German-legal-translation</a>
+      3. <a href="https://github.com/davidhilpert/french-german-legal-translation">French-German-legal-translation</a>
       trainiert ein neuronales Übersetzungsmodell (mBART) um EuGH-Urteile vom Französischen ins Deutsche zu übertragen.
     </td>
     <td>
-      3. <a href="https://github.com/davidhilpert/RAG_Demo](https://github.com/davidhilpert/french-german-legal-translation">French-German-legal-translation</a>,
+      3. <a href="https://github.com/davidhilpert/french-german-legal-translation">French-German-legal-translation</a>,
       trains a neural machine translation model (mBART) for transposing CJEU-judgments from French to German.
     </td>
   </tr>
