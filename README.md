@@ -51,14 +51,12 @@
 
   <tr>
     <td>
-      3. In <a href="https://github.com/davidhilpert/RAG_Demo">RAG_Demo</a>
-      setze ich Retrieval Augmented Generation (RAG) ein, um einen Chatbot zu bauen,
-      der Fragen zu EU-Rechtstexten beantworten kann.
+      3. <a href="[https://github.com/davidhilpert/RAG_Demo](https://github.com/davidhilpert/french-german-legal-translation)">French-German-legal-translationa>
+      trainiert ein neuronales Übersetzungsmodell (mBart) um EuGH-Urteile vom Französischen ins Deutsche zu übertragen.
     </td>
     <td>
-      3. In <a href="https://github.com/davidhilpert/RAG_Demo">RAG_Demo</a>,
-      I employ Retrieval Augmented Generation (RAG) in order to build a chatbot
-      that can answer questions about EU legal texts.
+      3. <a href="[https://github.com/davidhilpert/RAG_Demo](https://github.com/davidhilpert/french-german-legal-translation)">French-German-legal-translationa>,
+      trains a neural machine translation model (mBart) for transposing CJEU-judgments from French to German.
     </td>
   </tr>
 
