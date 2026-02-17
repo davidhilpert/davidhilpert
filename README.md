@@ -10,7 +10,7 @@
       und umfangreicher Erfahrung mit Datenprojekten in der Industrie.
       Meine Arbeit ist zentriert auf Machine Learning/Deep Learning,
       Natural Language Processing und kausale Inferenz und deren Einbindung in robuste
-      Data Pipelines. 
+      Data Pipelines und ML Operations. 
       Auf meinem GitHub finden sich einige aktuelle Projekte, die sich mit diesen
       Interessen beschäftigen. Zum Beispiel:
     </td>
@@ -18,7 +18,7 @@
       💼 I’m a Data Scientist with a background in quantitative social sciences and extensive
       experience with data analytics projects in industry. My work is centered on machine
       learning/deep learning, natural language processing, and causal inference, as well as embedding
-      those tools in robust data pipelines.
+      those tools in robust data pipelines and MLOps. 
       My GitHub showcases a few current projects playing around with these interests. For example,
     </td>
   </tr>
