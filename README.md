@@ -6,8 +6,7 @@
 
   <tr>
     <td>
-      💼 Ich bin Data Scientist mit einem Hintergrund in quantitativen Sozialwissenschaften
-      und umfangreicher Erfahrung mit Datenprojekten in der Industrie.
+      💼 Ich bin Data Scientist mit umfangreicher Erfahrung mit Datenprojekten in der Industrie.
       Meine Arbeit ist zentriert auf Machine Learning/Deep Learning,
       Natural Language Processing und kausale Inferenz und deren Einbindung in robuste
       Data Pipelines und ML Operations. 
@@ -15,10 +14,9 @@
       Interessen beschäftigen. Zum Beispiel:
     </td>
     <td>
-      💼 I’m a Data Scientist with a background in quantitative social sciences and extensive
-      experience with data analytics projects in industry. My work is centered on machine
-      learning/deep learning, natural language processing, and causal inference, as well as embedding
-      those tools in robust data pipelines and MLOps. 
+      💼 I’m a Data Scientist with extensive experience with data analytics projects in industry. 
+      My work is centered on machine learning/deep learning, natural language processing, and causal 
+      inference, as well as embedding those tools in robust data pipelines and MLOps. 
       My GitHub showcases a few current projects playing around with these interests. For example,
     </td>
   </tr>
