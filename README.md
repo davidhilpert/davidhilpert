@@ -78,12 +78,12 @@
     <td>
       📫 Kontaktieren Sie mich gern über
       <a href="https://de.linkedin.com/in/david-hilpert-363208135">LinkedIn</a>.
-      Das bin ebenfalls <a href="https://github.com/FmgDhi">ich</a>.
+      Auf Github bin ich auch noch <a href="https://github.com/FmgDhi">hier</a>.
     </td>
     <td>
       📫 Please feel free to reach out via
       <a href="https://de.linkedin.com/in/david-hilpert-363208135">LinkedIn</a>.
-      That's also <a href="https://github.com/FmgDhi">me</a>.
+      On Github I can be found here <a href="https://github.com/FmgDhi">here</a>.
     </td>
   </tr>
 </table>
