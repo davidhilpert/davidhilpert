@@ -83,7 +83,7 @@
     <td>
       📫 Please feel free to reach out via
       <a href="https://de.linkedin.com/in/david-hilpert-363208135">LinkedIn</a>.
-      On Github I can be found here <a href="https://github.com/FmgDhi">here</a>.
+      On Github I also can be found <a href="https://github.com/FmgDhi">here</a>.
     </td>
   </tr>
 </table>
